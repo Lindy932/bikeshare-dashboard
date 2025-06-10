@@ -26,3 +26,8 @@ I developed a interactive and insightful data visualization dashboard that analy
 ## Tools
   MySQL, MySQL Workbench, Power BI, Tableau, Python, SQL
 
+
+## Visualization
+Produced interactive dashboard using Tableau. More advanced data visualizations are located in Power BI dashboard.
+
+
