@@ -5,13 +5,13 @@ I developed a interactive and insightful data visualization dashboard that analy
 
 ## Insights
 
-### Peak hours based on ride frequency
+#### Peak hours based on ride frequency
 
-### Popular Bike Routes and Stations
+#### Popular Bike Routes and Stations
 
-### User Segmentation amongst Bike Types and User Types
+#### User Segmentation amongst Bike Types and User Types
 
-### High Demand Areas
+#### High Demand Areas
 
 
 
