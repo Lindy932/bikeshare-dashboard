@@ -5,19 +5,24 @@ I developed a interactive and insightful data visualization dashboard that analy
 
 ## Insights
 
-#### Peak hours based on ride frequency
+#### Peak hours based on Ride Frequency
 
 #### Popular Bike Routes and Stations
 
 #### User Segmentation amongst Bike Types and User Types
+##### Usage Behavior (based on clustering patterns)
 
 #### High Demand Areas
 
+#### Loop Rides
 
+#### Predicting Future Usage
 
 ## Dataset
+
 
 ## Data Wrangling
 
 ## Tools
+  MySQL, MySQL Workbench, Power BI, Tableau, Python, SQL
 
