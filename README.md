@@ -31,9 +31,10 @@ Produced interactive dashboard using Tableau. More advanced data visualizations 
 <img width="898" alt="Screen Shot 2025-06-13 at 12 33 34 AM" src="https://github.com/user-attachments/assets/23ae44c6-2eb6-462c-9250-ef57e3fab861" />
 
 ### Power BI: 
+
 <img width="1067" alt="Screen Shot 2025-06-13 at 12 06 11 AM" src="https://github.com/user-attachments/assets/c07ea0fd-0a93-4d94-9f5d-dfd6be4122e3" />
 
-
+⚠️ Note: When opening the pbix file, Python visuals are visible only when the report is opened in Power BI Desktop with Python installed. They will not render in Power BI Service without a Premium license.
 
 
 
