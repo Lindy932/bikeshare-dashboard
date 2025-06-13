@@ -26,11 +26,11 @@ Public Citibike NYC dataset with 85,000+ ride records are utilized for this visu
 ## Visualization 📊
 Produced interactive dashboard using Tableau. More advanced data visualizations such as predictive analysis are created using Power BI dashboard with python visuals.
 
-Tableau: [Link](https://public.tableau.com/app/profile/lindy.lin1797/viz/BikeshareVisualizationDashboard/Dashboard1)
+### Tableau: [Link](https://public.tableau.com/app/profile/lindy.lin1797/viz/BikeshareVisualizationDashboard/Dashboard1)
 
 <img width="898" alt="Screen Shot 2025-06-13 at 12 33 34 AM" src="https://github.com/user-attachments/assets/23ae44c6-2eb6-462c-9250-ef57e3fab861" />
 
-Power BI: 
+### Power BI: 
 <img width="1067" alt="Screen Shot 2025-06-13 at 12 06 11 AM" src="https://github.com/user-attachments/assets/c07ea0fd-0a93-4d94-9f5d-dfd6be4122e3" />
 
 
