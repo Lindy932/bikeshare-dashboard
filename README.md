@@ -16,11 +16,11 @@ I developed a interactive data visualization dashboard to analyze and identify u
 Public Citibike NYC dataset with 85,000+ ride records are utilized for this visualization which provided station names, timestamps, user's metadata, and geolocations.
 
 ## Data Wrangling 🔧
-- Cleaned data with python, handled missing values, normalized timestamps, and engineered time-based features like querying for ride duration given start and end times of each ride.
+- Cleaned data with Python using Jupyter Notebook, handled missing values, normalized timestamps, and engineered time-based features like querying for ride duration given start and end times of each ride.
 - Aggregated, queried and modeled data in SQL and Power BI for performance, predictability, and flexibility. 
 
 ## Tools 🛠
-  MySQL, MySQL Workbench, Power BI, Tableau, Python (Pandas, Scikit-learn, Prophet, Matplotlib), SQL, DAX and Power Query
+  MySQL, MySQL Workbench, Power BI, Tableau, Python (Pandas, Scikit-learn, Prophet, Matplotlib), SQL, DAX, Power Query, Jupyter Notebook
 
 
 ## Visualization 📊
