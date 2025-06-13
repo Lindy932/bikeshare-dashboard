@@ -1,6 +1,6 @@
 # 🚲 Bike Share Rides Usage Analytics Dashboard
 
-## Goal 
+## Goal ✅
 I developed a interactive data visualization dashboard to analyze and identify urban bike usage patterns. The project focuses on identifying trends in ride frequency, user behavior, station demand, popular routes, and user behavior with the use of real-world bikeshare datasets. It is established to have better support toward strategic decision-making with a focus on transportation optimization, predictive analytics, and operational efficiency. 
 
 ## Insights 📈
