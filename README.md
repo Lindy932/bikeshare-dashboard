@@ -5,7 +5,7 @@ I developed a interactive data visualization dashboard to analyze and identify u
 
 ## Insights 📈
 - Identified peak ride hours and high-demand stations/routes for optimal bike station distribution.
-- Segmented users by bike (Electric VS Regular) and rider types (Member VS Casual), revealing usage behavior for targeted services improvements
+- Segmented users by bike (Electric vs. Regular) and rider types (Member vs. Casual), revealing usage behavior for targeted services improvements
 - Applied K-Means clustering to show distinct user behavior patterns
 - Detect Loop rides (15%) that demonstrated recreational usage around certain areas
 - Built predictive forecasting model (Prophet) of bike rides usage for the next month with 85%+ accuracy.
