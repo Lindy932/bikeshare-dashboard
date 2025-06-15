@@ -7,13 +7,13 @@ I developed a interactive data visualization dashboard to analyze and identify u
 - Identified peak ride hours and high-demand stations/routes for optimal bike station distribution.
 - Segmented users by bike (Electric vs. Regular) and rider types (Member vs. Casual), revealing usage behavior for targeted services improvements
 - Applied K-Means clustering to show distinct user behavior patterns
-- Detect Loop rides (15%) that demonstrated recreational usage around certain areas
+- Detect loop rides (15%) that demonstrated recreational usage around certain areas
 - Built predictive forecasting model (Prophet) of bike rides usage for the next month with 85%+ accuracy.
-- Rush Hour indicators based on days of the week and amount of rides
+- Rush hour indicators based on days of the week and amount of rides
 
 
 ## Dataset
-Public Citibike NYC dataset with 85,000+ ride records are utilized for this visualization which provided station names, timestamps, user's metadata, and geolocations.
+Public Citibike NYC dataset with 81,000+ ride records are utilized for this visualization which provided station names, timestamps, user's metadata, and geolocations.
 
 ## Data Wrangling 🔧
 - Cleaned data with Python using Jupyter Notebook, handled missing values, normalized timestamps, and engineered time-based features like querying for ride duration given start and end times of each ride.
@@ -36,6 +36,8 @@ Produced interactive dashboard using Tableau. More advanced data visualizations 
 
 ⚠️ Note: When opening the pbix file, Python visuals are visible only when the report is opened in Power BI Desktop with Python installed. They will not render in Power BI Service without a Premium license.
 
+
+### Analysis Results:
 
 
 
